@@ -1,0 +1,27 @@
+h1{
+    color: navy;
+    font-family: Impact;
+}
+
+img{
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+div{
+    border: 5px double green;
+    float:left;
+    margin: 3%;
+    width: 40%;
+}
+
+h2{
+    text-align: center;
+    font-family: Tahoma;
+}
